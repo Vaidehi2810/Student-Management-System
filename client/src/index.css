@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #f5f7fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 6px;
+}
+
+.table {
+    vertical-align: middle;
+}
